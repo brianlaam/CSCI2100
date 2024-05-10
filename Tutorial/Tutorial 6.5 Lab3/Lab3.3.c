@@ -1,20 +1,3 @@
-/*
-I, Lam Hoi Chun, am submitting the assignment for
-an individual project.
-I declare that the assignment here submitted is original except for
-source material explicitly acknowledged, the piece of work, or a part
-of the piece of work has not been submitted for more than one purpose
-(i.e. to satisfy the requirements in two different courses) without
-declaration. I also acknowledge that I am aware of University policy
-and regulations on honesty in academic work, and of the disciplinary
-guidelines and procedures applicable to breaches of such policy and
-regulations, as contained in the University website
-http://www.cuhk.edu.hk/policy/academichonesty/.
-It is also understood that assignments without a properly signed
-declaration by the student concerned will not be graded by the
-teacher(s).
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #define INF -999999
